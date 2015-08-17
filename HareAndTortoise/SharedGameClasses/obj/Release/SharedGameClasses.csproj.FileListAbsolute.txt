@@ -1,0 +1,9 @@
+C:\Users\n8707286\Documents\Visual Studio 2012\Projects\HareAndTortoise\SharedGameClasses\bin\Release\SharedGameClasses.dll
+C:\Users\n8707286\Documents\Visual Studio 2012\Projects\HareAndTortoise\SharedGameClasses\bin\Release\SharedGameClasses.pdb
+C:\Users\n8707286\Documents\Visual Studio 2012\Projects\HareAndTortoise\SharedGameClasses\obj\Release\SharedGameClasses.dll
+C:\Users\n8707286\Documents\Visual Studio 2012\Projects\HareAndTortoise\SharedGameClasses\obj\Release\SharedGameClasses.pdb
+P:\resource\QUT 1st semester\270 programing\HareAndTortoise\SharedGameClasses\bin\Release\SharedGameClasses.dll
+P:\resource\QUT 1st semester\270 programing\HareAndTortoise\SharedGameClasses\bin\Release\SharedGameClasses.pdb
+P:\resource\QUT 1st semester\270 programing\HareAndTortoise\SharedGameClasses\obj\Release\SharedGameClasses.csprojResolveAssemblyReference.cache
+P:\resource\QUT 1st semester\270 programing\HareAndTortoise\SharedGameClasses\obj\Release\SharedGameClasses.dll
+P:\resource\QUT 1st semester\270 programing\HareAndTortoise\SharedGameClasses\obj\Release\SharedGameClasses.pdb

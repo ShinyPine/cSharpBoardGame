@@ -1,0 +1,10 @@
+C:\Users\lihailian\Documents\Visual Studio 2012\Projects\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+C:\Users\lihailian\Documents\Visual Studio 2012\Projects\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+C:\Users\lihailian\Documents\Visual Studio 2012\Projects\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+C:\Users\lihailian\Documents\Visual Studio 2012\Projects\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.pdb
+C:\Users\lihailian\Documents\Visual Studio 2012\Projects\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.csprojResolveAssemblyReference.cache
+C:\Users\n8707286\Documents\Visual Studio 2012\Projects\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+C:\Users\n8707286\Documents\Visual Studio 2012\Projects\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+C:\Users\n8707286\Documents\Visual Studio 2012\Projects\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.csprojResolveAssemblyReference.cache
+C:\Users\n8707286\Documents\Visual Studio 2012\Projects\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+C:\Users\n8707286\Documents\Visual Studio 2012\Projects\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.pdb
